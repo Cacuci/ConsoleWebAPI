@@ -1,0 +1,11 @@
+C:\Users\RafaelCacuci\Documents\GitHub\ConsoleWebAPI\bin\Debug\netcoreapp2.1\ConsoleWebAPI.deps.json
+C:\Users\RafaelCacuci\Documents\GitHub\ConsoleWebAPI\bin\Debug\netcoreapp2.1\ConsoleWebAPI.runtimeconfig.json
+C:\Users\RafaelCacuci\Documents\GitHub\ConsoleWebAPI\bin\Debug\netcoreapp2.1\ConsoleWebAPI.runtimeconfig.dev.json
+C:\Users\RafaelCacuci\Documents\GitHub\ConsoleWebAPI\bin\Debug\netcoreapp2.1\ConsoleWebAPI.dll
+C:\Users\RafaelCacuci\Documents\GitHub\ConsoleWebAPI\bin\Debug\netcoreapp2.1\ConsoleWebAPI.pdb
+C:\Users\RafaelCacuci\Documents\GitHub\ConsoleWebAPI\obj\Debug\netcoreapp2.1\ConsoleWebAPI.csprojAssemblyReference.cache
+C:\Users\RafaelCacuci\Documents\GitHub\ConsoleWebAPI\obj\Debug\netcoreapp2.1\ConsoleWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\RafaelCacuci\Documents\GitHub\ConsoleWebAPI\obj\Debug\netcoreapp2.1\ConsoleWebAPI.AssemblyInfoInputs.cache
+C:\Users\RafaelCacuci\Documents\GitHub\ConsoleWebAPI\obj\Debug\netcoreapp2.1\ConsoleWebAPI.AssemblyInfo.cs
+C:\Users\RafaelCacuci\Documents\GitHub\ConsoleWebAPI\obj\Debug\netcoreapp2.1\ConsoleWebAPI.dll
+C:\Users\RafaelCacuci\Documents\GitHub\ConsoleWebAPI\obj\Debug\netcoreapp2.1\ConsoleWebAPI.pdb
